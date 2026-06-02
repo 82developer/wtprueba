@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = PdfGenApi
-build_property.ProjectDir = E:\PDFsharp\
+build_property.ProjectDir = C:\Users\USUARIO\.codex\worktrees\2751\fix-generacionn\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PDFsharp\\PdfGenApi.csproj": {}
+    "C:\\Users\\USUARIO\\.codex\\worktrees\\2751\\fix-generacionn\\PdfGenApi.csproj": {}
   },
   "projects": {
-    "E:\\PDFsharp\\PdfGenApi.csproj": {
+    "C:\\Users\\USUARIO\\.codex\\worktrees\\2751\\fix-generacionn\\PdfGenApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PDFsharp\\PdfGenApi.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\.codex\\worktrees\\2751\\fix-generacionn\\PdfGenApi.csproj",
         "projectName": "PdfGenApi",
-        "projectPath": "E:\\PDFsharp\\PdfGenApi.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\.codex\\worktrees\\2751\\fix-generacionn\\PdfGenApi.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "E:\\PDFsharp\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\.codex\\worktrees\\2751\\fix-generacionn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
